@@ -20,7 +20,7 @@ Instalation instructions:
   15 Click BEES IN SPACE then on the right select "Edit instance"
   16 Click "Install Forge" and select the topmost version
   17 On the main MultiMC window select "instance folder" a new window will appear
-  18 in drag the "mods" and "config" folder provided with this download into the "minecraft" folder
+  18 in drag the "mods" and "config" folder provided with this download into the "MultiMC\instances\BEES IN SPACE\minecraft" folder
               PLEASE NOTE: If you are using github I recomend copying the files insted of moving them
   19 in MultiMC double click BEES IN SPACE to play
   20 HAVE FUN!
