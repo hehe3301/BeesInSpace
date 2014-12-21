@@ -1,8 +1,26 @@
 BeesInSpace
 ===========
 
-Instalation instructions:
+Mod List:
+    Pistronics
+    Carpenters Blocks
+    Chisel
+    Galacticraft-*
+    Hunger Overhual
+    Mekanism-*
+    Mine Factory Reloaded
+    Nether Ores
+    Open Computers
+    Pam's HarvestCraft
+    Sync
+    Applied Energistics
+    Buildcraft
+    Extra Utilities
+    Forestry
+    EnderChests
+    Translocator
 
+Instalation instructions:
   1  Download this repository.
   2  Download MultiMC(if you have used MultiMC before skip to step #11)
   3  Make a new folder where you want to run MultiMC from.
@@ -22,8 +40,8 @@ Instalation instructions:
   17 On the main MultiMC window select "instance folder" a new window will appear
   18 in drag the "mods" and "config" folder provided with this download into the "MultiMC\instances\BEES IN SPACE\minecraft" folder
               PLEASE NOTE: If you are using github I recomend copying the files insted of moving them
-  19 in MultiMC double click BEES IN SPACE to play
-  20 HAVE FUN!
+  19. in MultiMC double click BEES IN SPACE to play
+  20. HAVE FUN!
   
   MultiMC download:  http://multimc.org/
   This Repository    https://github.com/hehe3301/BeesInSpace
