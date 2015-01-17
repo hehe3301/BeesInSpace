@@ -17,11 +17,12 @@ Mod List:
     Buildcraft
     Extra Utilities
     Forestry
-    EnderChests
+    EnderStorage
     Translocator
+    LanteaCraft
 
 Instalation instructions:
-  1  Download this repository.
+  1  Download this repository. (click download zip on the main page or clone the repo)
   2  Download MultiMC(if you have used MultiMC before skip to step #11)
   3  Make a new folder where you want to run MultiMC from.
   4  Copy the contents of the MultiMc download into your created folder
