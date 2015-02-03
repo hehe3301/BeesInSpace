@@ -8,11 +8,11 @@
         <!--Maximum range of DHD to Stargate link-->
         <Option name="dhdLinkRange" x="10" y="10" z="10"/>
         <!--Seconds to keep connections open for-->
-        <Option name="secondsToStayOpen" time="300"/>
+        <Option name="secondsToStayOpen" time="60"/>
         <!--Can players travel only one way?-->
         <Option enabled="true" name="oneWayTravel"/>
         <!--Can players close the gate from either end?-->
-        <Option enabled="true" name="closeFromEitherEnd"/>
+        <Option enabled="false" name="closeFromEitherEnd"/>
         <!--Can the Stargate draw power from either end when connected?-->
         <Power enabled="true" name="powerFromEitherEnd"/>
         <!--Can a Stargate connect to a Stargate of another type?-->
