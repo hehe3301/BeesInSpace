@@ -1,3 +1,6 @@
+Server IP:
+kasour.myfw.us
+
 BeesInSpace
 ===========
 
