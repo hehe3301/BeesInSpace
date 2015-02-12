@@ -1,6 +1,9 @@
 Server IP:
 kasour.myfw.us
 
+Repository and download:
+github.com/hehe3301/beesinspace
+
 BeesInSpace
 ===========
 
